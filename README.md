@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @He-Lihui
 - 👀 I’m interested in Front-end development and new ideas
 - 🌱 I’m currently learning Vue and React
-- 💞️ I’m looking to collaborate on Front-end engineer
+- 💞️ Front-end engineer
 - 📫 How to reach me   ：   mistletoe997@163.com    Mr.He
 
 <!---
